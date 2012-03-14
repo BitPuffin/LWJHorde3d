@@ -29,8 +29,7 @@ public abstract class Resource
 	// ============================== //
 	////////////////////////////////////
 	
-	public
-	Resource( int type, final String name, int flags ) {
+	public Resource( int type, final String name, int flags ) {
 		
 	}
 	
